@@ -10,4 +10,14 @@ body{
     background-size: cover;
     height: 90vh;
     background-attachment: fixed;
+    color: white;
+}
+
+#logo{
+    padding-top: 20vh;
+    padding-bottom: 20px;
+}
+
+#m-logo{
+    padding-top: 100px;
 }
