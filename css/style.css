@@ -21,3 +21,13 @@ body{
 #m-logo{
     padding-top: 100px;
 }
+
+#section-2{
+    margin: 40px;
+}
+
+#section-3{
+    background-image: url(/assets/backgrounds/s_image.jpg);
+    color: white;
+    padding: 90px;
+}
