@@ -37,3 +37,7 @@ body{
     margin-bottom: 40px;
 }
 
+.work-1, .work-2, .work-3{
+    display: none;
+    height: 100vh;
+}
