@@ -21,4 +21,15 @@ $(document).ready(function(){
         $(".image-2").show(1000);
       });
 
+      $(".image-3").click(function(){
+        $(".image-3").hide(1000);
+        $(".work-3").toggle(1000);
+        $(".work-3").show(1000);
+      })
+      $(".work-3").click(function(){
+        $(".work-3").hide(1000);
+        $(".image-3").toggle(1000);
+        $(".image-3").show(1000);
+      });
+
   });
