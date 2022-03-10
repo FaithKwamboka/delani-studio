@@ -103,10 +103,32 @@ body{
 
 form{
     max-width: 90%;
-    width: 600px;
+    width: 700px;
 }
 
 form input{
     width: 45%;
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+    padding: 7px;
+    margin-right: 20px;
 }
 
+form textarea{
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+    padding: 7px;
+}
+
+::placeholder{
+    color: white;
+}
+
+#message{
+    padding: 5px;
+    margin: 17px;
+    width: 650px;
+    max-width: 85%;
+}
