@@ -55,3 +55,43 @@ body{
     width: 160px;
     margin: 5px;
 }
+
+.p-1{
+    background-image: url(/assets/portfolio/work4.jpg);
+    background-size: cover;
+}
+
+.p-2{
+    background-image: url(/assets/portfolio/work3.jpg);
+    background-size: cover;
+}
+
+.p-3{
+    background-image: url(/assets/portfolio/work2.jpg);
+    background-size: cover;
+}
+
+.p-4{
+    background-image: url(/assets/portfolio/work1.jpg);
+    background-size: cover;
+}
+
+.p-5{
+    background-image: url(/assets/portfolio/work5.jpg);
+    background-size: cover;
+}
+
+.p-6{
+    background-image: url(/assets/portfolio/work6.jpg);
+    background-size: cover;
+}
+
+.p-7{
+    background-image: url(/assets/portfolio/work7.jpg);
+    background-size: cover;
+}
+
+.p-8{
+    background-image: url(/assets/portfolio/work8.jpg);
+    background-size: cover;
+}
