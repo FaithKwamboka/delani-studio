@@ -41,3 +41,17 @@ body{
     display: none;
     height: 100vh;
 }
+
+/* #section-5{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 30px;
+    padding: 20px;
+} */
+
+.p-1, .p-2, .p-3, .p-4, .p-5, .p-6, .p-7, .p-8{
+    height: 160px;
+    width: 160px;
+    margin: 5px;
+}
