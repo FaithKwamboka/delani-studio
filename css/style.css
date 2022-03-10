@@ -100,6 +100,7 @@ body{
     padding: 30px;
     margin-top: 40px;
     height: 380px;
+    background-size: cover;
 }
 
 form{
@@ -132,4 +133,9 @@ form textarea{
     margin: 17px;
     width: 650px;
     max-width: 85%;
+}
+
+footer{
+    padding-top: 30px;
+    margin: auto;
 }
