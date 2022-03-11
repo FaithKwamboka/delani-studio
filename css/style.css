@@ -9,7 +9,7 @@ body{
 #section-1{
     background-image: url(/assets/backgrounds/h_img.jpg);
     background-size: cover;
-    height: 105vh;
+    height: 110vh;
     background-attachment: fixed;
     color: white;
 }
