@@ -157,3 +157,12 @@ footer{
     padding-top: 30px;
     margin: auto;
 }
+
+#clear{
+    width: 45%;
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+    padding: 7px;
+    margin-right: 20px;
+}
