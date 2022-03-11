@@ -40,4 +40,19 @@ $(document).ready(function(){
       }
       )
 
+      $("form#form-submit").on('submit',function(event){
+        event.preventDefault();
+        let name = $("input:first").val();
+        let email = $("input#email").val();
+        let message = $("textarea#message").val();
+    
+        if ($("input:first").val() && $("input#email").val()){
+            alert ("Hey " + name + ", Thank you for your message. Our team will get back to you soon");
+        }
+        else {
+            alert("Please provide your correct name and email!");
+        }
+        event.preventDefault();
+      })
+
   });
