@@ -14,15 +14,17 @@ Faith Kwamboka Okong'o
 # Setup and Installation Instructions
 
 1. Open your terminal (CTRL ALT T)
-2. Clone the project from github clone 
-3. cd Desani
+2. Clone the project from github clone https://github.com/FaithKwamboka/delani-studio.git
+3. cd delani-studio
 4. Open the folder in your text editor prefferably VS-code (code .) or Atom.
+5. Alternatively, you can fork the project or download the zip from GitHub https://github.com/FaithKwamboka/delani-studio.git
 
 # Contact
 
 Email: okongofaith3@gmail.com
+Phone: +254727705173
 
 # Licence Information
 
-Copyright (c) 2022 FaithKwamboka
+Copyright (c) 2022 Faith Kwamboka Okong'o
 
