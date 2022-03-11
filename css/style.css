@@ -8,7 +8,7 @@ body{
 #section-1{
     background-image: url(/assets/backgrounds/h_img.jpg);
     background-size: cover;
-    height: 90vh;
+    height: 105vh;
     background-attachment: fixed;
     color: white;
 }
@@ -19,7 +19,7 @@ body{
 }
 
 #m-logo{
-    padding-top: 100px;
+    padding-top: 90px;
 }
 
 #section-2{
@@ -39,7 +39,7 @@ body{
 
 .work-1, .work-2, .work-3{
     display: none;
-    height: 100vh;
+    height: 25vh;
 }
 
 #section-5{
@@ -47,50 +47,67 @@ body{
     padding: 5px;
 }
 
-.p-1, .p-2, .p-3, .p-4, .p-5, .p-6, .p-7, .p-8{
+.pr-1, .pr-2, .pr-3, .pr-4, .pr-5, .pr-6, .pr-7, .pr-8{
     height: 160px;
     width: 160px;
     margin: 5px;
+    position: relative;
+    margin-bottom: 20px;
 }
 
-.p-1{
+.pr-1{
     background-image: url(/assets/portfolio/work4.jpg);
     background-size: cover;
 }
 
-.p-2{
+.pr-2{
     background-image: url(/assets/portfolio/work3.jpg);
     background-size: cover;
 }
 
-.p-3{
+.pr-3{
     background-image: url(/assets/portfolio/work2.jpg);
     background-size: cover;
 }
 
-.p-4{
+.pr-4{
     background-image: url(/assets/portfolio/work1.jpg);
     background-size: cover;
 }
 
-.p-5{
+.pr-5{
     background-image: url(/assets/portfolio/work5.jpg);
     background-size: cover;
 }
 
-.p-6{
+.pr-6{
     background-image: url(/assets/portfolio/work6.jpg);
     background-size: cover;
 }
 
-.p-7{
+.pr-7{
     background-image: url(/assets/portfolio/work7.jpg);
     background-size: cover;
 }
 
-.p-8{
+.pr-8{
     background-image: url(/assets/portfolio/work8.jpg);
     background-size: cover;
+}
+
+.text{
+    width: 160px;
+    height: 160px;
+    margin: auto;
+    font-weight: bolder;
+    background-color: rgb(255, 255, 255,0.6);
+    text-align: center;
+    position: absolute;
+    display: none;
+}
+
+#pro{
+    margin-top: 70px;
 }
 
 #section-6{

@@ -32,4 +32,12 @@ $(document).ready(function(){
         $(".image-3").show(1000);
       });
 
+      $("#port").hover(function(){
+        $(".text").css("display","none").slideDown(1000);
+      },
+      function(){
+        $(".text").css("display","block").slideUp(1000);
+      }
+      )
+
   });
