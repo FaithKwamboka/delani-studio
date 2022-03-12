@@ -1,6 +1,8 @@
 # Delani
 Delani Studio project focuses on implementing everything we have learnt from Bootstrap and jQuery and recreate a landing page for a fictional studio.
 
+![Screenshot from 2022-03-12 02-10-11](https://user-images.githubusercontent.com/100117264/157986639-be0f6b0d-ec20-4ada-bbdf-9757e39a3705.png)
+
 # Author
 Faith Kwamboka Okong'o
 
