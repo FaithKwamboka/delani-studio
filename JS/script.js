@@ -116,8 +116,10 @@ $(document).ready(function () {
     }
   );
 
+  // On Submit:
+
   $("form#form-submit").on("submit", function (event) {
-    event.preventDefault();
+    // event.preventDefault();
     let name = $("input:first").val();
     let email = $("input#email").val();
     let message = $("textarea#message").val();
@@ -131,6 +133,7 @@ $(document).ready(function () {
     } else {
       alert("Please provide your correct name and email!");
     }
-    event.preventDefault();
+    // event.preventDefault();
   });
+
 });
