@@ -32,7 +32,82 @@ $(document).ready(function () {
     $(".image-3").show(1000);
   });
 
-  $("#port").hover(
+  // METHOD 1
+  // $("#port").hover(
+  //   function () {
+  //     $(".text").css("display", "none").slideDown(1000);
+  //   },
+  //   function () {
+  //     $(".text").css("display", "block").slideUp(1000);
+  //   }
+  // );
+
+
+  // METHOD 2
+  $(".pr-1").mouseenter(
+    function () {
+      $(".text").css("display", "none").slideDown(1000);
+    },
+    function () {
+      $(".text").css("display", "block").slideUp(1000);
+    }
+  );
+
+  $(".pr-2").hover(
+    function () {
+      $(".text").css("display", "none").slideDown(1000);
+    },
+    function () {
+      $(".text").css("display", "block").slideUp(1000);
+    }
+  );
+
+  $(".pr-3").hover(
+    function () {
+      $(".text").css("display", "none").slideDown(1000);
+    },
+    function () {
+      $(".text").css("display", "block").slideUp(1000);
+    }
+  );
+
+  $(".pr-4").hover(
+    function () {
+      $(".text").css("display", "none").slideDown(1000);
+    },
+    function () {
+      $(".text").css("display", "block").slideUp(1000);
+    }
+  );
+
+  $(".pr-5").hover(
+    function () {
+      $(".text").css("display", "none").slideDown(1000);
+    },
+    function () {
+      $(".text").css("display", "block").slideUp(1000);
+    }
+  );
+
+  $(".pr-6").hover(
+    function () {
+      $(".text").css("display", "none").slideDown(1000);
+    },
+    function () {
+      $(".text").css("display", "block").slideUp(1000);
+    }
+  );
+
+  $(".pr-7").hover(
+    function () {
+      $(".text").css("display", "none").slideDown(1000);
+    },
+    function () {
+      $(".text").css("display", "block").slideUp(1000);
+    }
+  );
+
+  $(".pr-8").hover(
     function () {
       $(".text").css("display", "none").slideDown(1000);
     },
