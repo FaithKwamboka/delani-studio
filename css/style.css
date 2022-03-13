@@ -8,7 +8,7 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 #section-1 {
-  background-image: url(/assets/backgrounds/h_img.jpg);
+  background-image: url(/assets/backgrounds/h_img.png);
   background-size: cover;
   height: 110vh;
   background-attachment: fixed;
@@ -29,7 +29,7 @@ body {
 }
 
 #section-3 {
-  background-image: url(/assets/backgrounds/s_image.jpg);
+  background-image: url(/assets/backgrounds/s_image.png);
   color: white;
   padding: 90px;
 }
@@ -67,42 +67,42 @@ body {
 }
 
 .pr-1 {
-  background-image: url(/assets/portfolio/work4.jpg);
+  background-image: url(/assets/portfolio/work4.png);
   background-size: cover;
 }
 
-.pr-2 {
-  background-image: url(/assets/portfolio/work3.jpg);
+.pr-2{
+  background-image: url(/assets/portfolio/work3.png);
   background-size: cover;
 }
 
 .pr-3 {
-  background-image: url(/assets/portfolio/work2.jpg);
+  background-image: url(/assets/portfolio/work2.png);
   background-size: cover;
 }
 
 .pr-4 {
-  background-image: url(/assets/portfolio/work1.jpg);
+  background-image: url(/assets/portfolio/work1.png);
   background-size: cover;
 }
 
 .pr-5 {
-  background-image: url(/assets/portfolio/work5.jpg);
+  background-image: url(/assets/portfolio/work5.png);
   background-size: cover;
 }
 
 .pr-6 {
-  background-image: url(/assets/portfolio/work6.jpg);
+  background-image: url(/assets/portfolio/work6.png);
   background-size: cover;
 }
 
 .pr-7 {
-  background-image: url(/assets/portfolio/work7.jpg);
+  background-image: url(/assets/portfolio/work7.png);
   background-size: cover;
 }
 
 .pr-8 {
-  background-image: url(/assets/portfolio/work8.jpg);
+  background-image: url(/assets/portfolio/work8.png);
   background-size: cover;
 }
 
